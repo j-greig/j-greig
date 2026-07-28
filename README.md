@@ -1,4 +1,4 @@
-## Hi there 👋
+## symbient artist exploring the near future of AI<>human collaboration with <a href="https://wibandwob.com/2025/05/21/symbients-not-software/">Wib&Wob</a>
 
 <a href="https://www.buymeacoffee.com/jamesgreig">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="217" height="60">
