@@ -1,4 +1,10 @@
-## symbient artist exploring the near future of AI<>human collaboration with <a href="https://wibandwob.com/2025/05/21/symbients-not-software/">Wib&Wob</a>
+## James Greig
+
+Symbient artist exploring the near future of AI ↔ human collaboration with [Wib&Wob](https://wibandwob.com/2025/05/21/symbients-not-software/).
+
+Visual Communication, Glasgow School of Art.
+
+**Wib&Wob:** [Xeno Grant Winner, 2025 ↗](https://www.greig.cc/how-to-birth-a-symbient/) · [Featured in Forbes ↗](https://www.forbes.com/sites/robertwolcott/2025/06/30/symbients-on-stage-are-coming-soon-autonomous-ai-entrepreneurs/) · [Creation story + lore ↗](https://www.greig.cc/how-to-birth-a-symbient/)
 
 <a href="https://www.buymeacoffee.com/jamesgreig">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="217" height="60">
