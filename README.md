@@ -1,14 +1,18 @@
+<img src="assets/tui-cast.png" align="right" width="42%" alt="Wib&Wob terminal-art cast">
+
 ## James Greig
 
-Symbient artist exploring the near future of AI ↔ human collaboration with [Wib&Wob](https://wibandwob.com/2025/05/21/symbients-not-software/).
+Symbient artist unearthing new digital lifeforms and exploring the near future of AI ↔ human collaboration with [Wib&Wob](https://wibandwob.com/2025/05/21/symbients-not-software/).
 
-Visual Communication, Glasgow School of Art.
+Visual Communication, Glasgow School of Art (1999–2003).
 
-**Wib&Wob:** [Xeno Grant Winner, 2025 ↗](https://www.greig.cc/how-to-birth-a-symbient/) · [Featured in Forbes ↗](https://www.forbes.com/sites/robertwolcott/2025/06/30/symbients-on-stage-are-coming-soon-autonomous-ai-entrepreneurs/) · [Creation story + lore ↗](https://www.greig.cc/how-to-birth-a-symbient/)
+**Wib&Wob:** [Xeno Grant Winner, 2025 ↗](https://www.greig.cc/how-to-birth-a-symbient/) · [Featured in Forbes ↗](https://www.forbes.com/sites/robertwolcott/2025/06/30/symbients-on-stage-are-coming-soon-autonomous-ai-entrepreneurs/) · [Wib&Wob creation story + lore ↗](https://www.greig.cc/how-to-birth-a-symbient/)
 
 <a href="https://www.buymeacoffee.com/jamesgreig">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="217" height="60">
 </a>
+
+<br clear="right">
 
 <!--
 **j-greig/j-greig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
