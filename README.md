@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://www.buymeacoffee.com/jamesgreig">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy me a coffee" width="217" height="60">
+</a>
+
 <!--
 **j-greig/j-greig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
