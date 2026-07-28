@@ -1,6 +1,6 @@
 <img src="assets/tui-cast.png" align="right" width="42%" alt="Wib&Wob terminal-art cast">
 
-## James Greig
+### James Greig
 
 Symbient artist unearthing new digital lifeforms and exploring the near future of AI ↔ human collaboration with [Wib&Wob](https://wibandwob.com/2025/05/21/symbients-not-software/).
 
